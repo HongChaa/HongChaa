@@ -3,9 +3,10 @@
   
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=1F1E33&height=150&section=header&text=HongCha's&nbsp;&nbsp;Github&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55)
 
+## :books: TECH STACK
 
-<img src="https://img.shields.io/badge/-Java-344CB7?style=for-the-badge&logo=Java&logoColor=white">
 
+<img src="https://img.shields.io/badge/-Java-344CB7?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/-Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -23,14 +24,20 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 
+<br>
 
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white">
 
-<br><br><br>
+<br><br>
+## :seedling: Github Stats 
+
 
 ![HongChaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongChaa&show_icons=true&theme=radical)
 
