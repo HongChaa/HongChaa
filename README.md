@@ -4,8 +4,8 @@
 
 ### 🌱 About me
 ---
-- 현재 Back-end Engineer 외주 작업 중
-- ICTWAY 에서 1년 8개월 Full-stack Engineer 근무
+- 현재 Back-end Engineer 외주 작업 중 (25.12.15 ~)
+- ICTWAY 에서 1년 8개월 Full-stack Engineer 근무 (24.02.21 ~ 25.10.17)
 <br>
 
 ### :books: Tech Stack
