@@ -44,9 +44,12 @@
 
 ### 📊 Github Stats
 ---
-
+<div align="center">
+  
 ![Top Langs](https://github-readme-stats-hongcha.vercel.app/api/top-langs/?username=HongChaa&layout=compact&theme=radical)
 ![HongChaa's github stats](https://github-readme-stats-hongcha.vercel.app/api?username=HongChaa&theme=radical)
+
+</div>
 
 
 
