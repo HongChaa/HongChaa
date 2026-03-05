@@ -1,9 +1,14 @@
 
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=1F1E33&height=150&section=header&text=HongCha's&nbsp;&nbsp;Github&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FC575E,100:90D5EC&height=180&section=header&text=HongChaa's&nbsp;&nbsp;Github&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35)
+
+
+### 🌴 About me
+---
+- want to work as a back-end engineer
+- worked as a full-stack engineer for a public SI project
 
 ### :books: Tech Stack
+---
 
 #### Back-end
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
@@ -18,26 +23,22 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)
 
 #### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white)
 
-#### ☁️ Infra & DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black)
+#### Infra & DevOps
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=black)
+![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=flat&logo=Rocky%20Linux&logoColor=black)
 ![Cloudfalre](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
+![Subversion](https://img.shields.io/badge/Subversion-809CC9?style=flat&logo=Subversion&logoColor=white)
 
+![HongChaa's github stats](https://github-readme-stats-hongcha.vercel.app/api?username=HongChaa)
 
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/amazon%20web%20services-232F3E?style=for-the-badge&logo=amazon%20web%20services&logoColor=white">
-<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-
-<br>
-
-</div>
 <!--
 ![header](https://capsule-render.vercel.app/api?type=Cylinder)
 https://github-readme-stats.vercel.app/api?username=HongChaa)&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical
