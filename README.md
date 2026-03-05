@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FC575E,100:90D5EC&height=180&section=header&text=👋HongChaa's&nbsp;&nbsp;Github&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FC575E,100:90D5EC&height=180&section=header&text=👋HongCha's&nbsp;&nbsp;Github&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35)
 
 
 ### 🌱 About me
