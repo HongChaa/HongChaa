@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FC575E,100:90D5EC&height=180&section=header&text=👋HongCha's&nbsp;&nbsp;Github&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:aa4b6b,50:6b6b83,100:3b8d99&height=180&section=header&text=👋HongCha's&nbsp;&nbsp;Github&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35)
 
 
 ### 🌱 About me
@@ -44,12 +44,10 @@
 
 ### 📊 Github Stats
 ---
-<p align="center">
-  
+
 ![Top Langs](https://github-readme-stats-hongcha.vercel.app/api/top-langs/?username=HongChaa&layout=compact&theme=radical)
 ![HongChaa's github stats](https://github-readme-stats-hongcha.vercel.app/api?username=HongChaa&theme=radical)
 
-</p>
 
 
 
