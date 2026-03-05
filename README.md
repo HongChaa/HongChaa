@@ -34,6 +34,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=black)
 ![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=flat&logo=Rocky%20Linux&logoColor=black)
 ![Cloudfalre](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
@@ -43,8 +44,13 @@
 
 ### 📊 Github Stats
 ---
-
+<p align="center">
+  
+![Top Langs](https://github-readme-stats-hongcha.vercel.app/api/top-langs/?username=HongChaa&layout=compact&theme=radical)
 ![HongChaa's github stats](https://github-readme-stats-hongcha.vercel.app/api?username=HongChaa&theme=radical)
 
-![Top Langs](https://github-readme-stats-hongcha.vercel.app/api/top-langs/?username=HongChaa&layout=compact&theme=radical)
+</p>
+
+
+
 
